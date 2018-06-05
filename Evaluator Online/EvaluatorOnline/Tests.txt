@@ -1,0 +1,33 @@
+Testul1
+1
+1 r1 r2 r3 r4 r5
+2
+2 r1 r2 r3 r4 r5
+3
+3 r1 r2 r3 r4 r5
+4
+4 r1 r2 r3 r4 r5
+5
+5 r1 r2 r3 r4 r5
+Testul
+q1
+wa1 r1 r2 r3 r4 r5
+q2
+wa1 r1 r2 r3 r4 r5
+q3
+wa1 r1 r2 r3 r4 r5
+q4
+wa1 r1 r2 r3 r4 r5
+q5
+wa1 r1 r2 r3 r4 r5
+t3
+q1
+wa1 r1 r2 r3 r4 r5
+q2
+wa1 r1 r2 r3 r4 r5
+q3
+wa1 r1 r2 r3 r4 r5
+q4
+wa1 r1 r2 r3 r4 r5
+q5
+wa1 r1 r2 r3 r4 r5
